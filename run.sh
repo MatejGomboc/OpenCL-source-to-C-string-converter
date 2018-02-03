@@ -1,2 +1,2 @@
 #!/bin/sh
-python oclProgramFileToString.py mandelbrot.cl mandelbrot.cpp -v -c
+python oclProgramFileToString.py inputFile.cl outputFile.cpp -v -c

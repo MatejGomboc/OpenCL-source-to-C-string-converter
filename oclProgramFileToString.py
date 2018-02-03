@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import sys, argparse, os, re
+import sys, argparse, re
 
 def comment_remover(text):
     def replacer(match):

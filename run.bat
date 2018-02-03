@@ -1,2 +1,2 @@
-python oclProgramFileToString.py mandelbrot.cl mandelbrot.cpp -c
+python oclProgramFileToString.py inputFile.cl outputFile.cpp -c
 pause
