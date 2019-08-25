@@ -10,7 +10,7 @@ Input file contains OpenCL kernel soure code. Output file contains the same code
 
 ## Optional switches
 - ```-v``` turn on verbose mode
-- ```-c``` convert into compact form - remove all comments and empty lines
+- ```-c``` convert into compact form - remove all comments, redundant spaces and empty lines
 
 ## Requirements
 - installed Python3 interpreter
